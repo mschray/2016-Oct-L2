@@ -149,6 +149,7 @@ We will be using the Northwind sample app created by [Bradley Braithwaite](https
 
     ```bash
     npm install
+    bower install
     npm start
     ```
 
